@@ -25,6 +25,6 @@ else:
     if minutos < 0:
         minutos += 60
         horas -= 1
-        print('O JOGO DUROU {} HORA(S) E {} MINUTOS(S)'.format(horas, minutos))
+        print('O JOGO DUROU {} HORA(S) E {} MINUTO(S)'.format(horas, minutos))
     else:
-        print('O JOGO DUROU {} HORA(S) E {} MINUTOS(S)'.format(horas, minutos))
+        print('O JOGO DUROU {} HORA(S) E {} MINUTO(S)'.format(horas, minutos))
